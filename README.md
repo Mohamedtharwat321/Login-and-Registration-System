@@ -40,9 +40,9 @@ This project is ideal for learning how to handle form validation, manage user da
 - **Responsive Design**:
     - The system is designed to work seamlessly on both desktop and mobile devices.
 - **Toast Notifications**:
-     -Uses Toastify.js to display success and error messages during registration and login.
+     - Uses Toastify.js to display success and error messages during registration and login.
 - **Tailwind CSS**:
-    -Utility-first CSS framework for rapid and responsive UI development.
+    - Utility-first CSS framework for rapid and responsive UI development.
     
 
   
