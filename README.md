@@ -29,6 +29,13 @@ This project is ideal for learning how to handle form validation, manage user da
 - **User Registration**:
     -Users can register by providing their name, email, and password.
     -Passwords are validated to ensure they match during registration
+  - Hero section.
+  - Information about the company and its services.
+  - Solar kits showcase.
+  - Repair services section.
+  - Energy innovators and products section.
+  - Customer testimonials.
+  - Footer with subscription and legal links.
 - **User Login**:
     -Registered users can log in using their email and password.
 - **Form Validation**:
