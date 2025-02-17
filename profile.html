@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="src/output.css" rel="stylesheet" />
+    <title>Home Page</title>
+  </head>
+  <body>
+    <div class="flex items-center justify-center h-screen bg-stone-300">
+      <div>
+        <h2 id="welcome-msg" class="text-blue-700 text-2xl font-bold mb-6">
+          Welcome to Your Profile
+        </h2>
+        <div class="text-center">
+          <button
+            id="logoutbtn"
+            class="bg-blue-950 text-white px-5 py-2 rounded-full cursor-pointer hover:bg-blue-900 hover:font-semibold"
+          >
+            Logout
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      //logout btn
+      const logoutBtn = document.getElementById("logoutbtn");
+      const msg = document.getElementById("welcome-msg");
+
+      logoutBtn.addEventListener("click", () => {
+        window.location.href = "login.html";
+      });
+    </script>
+  </body>
+</html>
