@@ -36,9 +36,9 @@ This project is ideal for learning how to handle form validation, manage user da
     - Error messages are displayed for invalid inputs.
 - **Local Storage**:
     - User data is stored securely in the browser's local storage.
-    -Data persists even after the browser is closed.
+    - Data persists even after the browser is closed.
 - **Responsive Design**:
-    -The system is designed to work seamlessly on both desktop and mobile devices.
+    - The system is designed to work seamlessly on both desktop and mobile devices.
 - **Toast Notifications**:
      -Uses Toastify.js to display success and error messages during registration and login.
 - **Tailwind CSS**:
