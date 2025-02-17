@@ -43,6 +43,7 @@ This project is ideal for learning how to handle form validation, manage user da
      -Uses Toastify.js to display success and error messages during registration and login.
 - **Tailwind CSS**:
     -Utility-first CSS framework for rapid and responsive UI development.
+    
 
   
 
