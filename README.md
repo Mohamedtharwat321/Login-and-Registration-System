@@ -67,6 +67,18 @@ To run this project locally, follow these steps:
 To run this project locally, follow these steps:
 
 ## Usage
-  - Open the index.html file in your browser to view the landing page.
-  - Explore the different sections to see the responsive design in action.
-  - Use the navigation links to jump to specific sections of the page
+-**Registration Page**:
+- Open the index.html file in your browser.
+- Fill in the registration form with your name, email, and password.
+- Ensure the password and confirm password fields match.
+- Click the Create Account button to register.
+- If successful, a toast notification will confirm the registration, and the user data will be stored in local storage.
+
+Login Page
+Open the Login.html file in your browser.
+
+Enter your registered email and password.
+
+Click the Login button to authenticate.
+
+If the credentials are correct, you will be redirected to a success page (or shown a success message).
