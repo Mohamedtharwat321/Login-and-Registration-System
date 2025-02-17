@@ -63,8 +63,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Mohamedtharwat321/Solar-Landing-Page.git
-To run this project locally, follow these steps:
+   git clone https://github.com/Mohamedtharwat321/Login-and-Registration-System.git
+
 
 ## Usage
 - **Registration Page**:
