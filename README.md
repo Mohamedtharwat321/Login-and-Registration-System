@@ -27,20 +27,14 @@ This project is ideal for learning how to handle form validation, manage user da
 
 ## Features
 - **User Registration**:
-    -Users can register by providing their name, email, and password.
-    -Passwords are validated to ensure they match during registration
-  - Hero section.
-  - Information about the company and its services.
-  - Solar kits showcase.
-  - Repair services section.
-  - Energy innovators and products section.
-  - Customer testimonials.
-  - Footer with subscription and legal links.
+  - Users can register by providing their name, email, and password.
+  - Passwords are validated to ensure they match during registration
 - **User Login**:
     -Registered users can log in using their email and password.
 - **Form Validation**:
-    -Real-time validation for fields like email, password, and confirm password.
-    -Error messages are displayed for invalid inputs.
+    - Real-time validation for fields like email, password, and confirm password.
+    - Error messages are displayed for invalid inputs.
+   
 - **Local Storage**:
     -User data is stored securely in the browser's local storage.
     -Data persists even after the browser is closed.
