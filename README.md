@@ -5,7 +5,7 @@
 
 
 ![Image](https://github.com/user-attachments/assets/d310e7c2-a6a0-4ca7-a851-6358fc0b486e) <br>
-This is a simple login and registration system built using HTML, CSS, JavaScript and Tailwind CSS. The system allows users to register an account, store their data in local storage, and log in using their credentials. It is a beginner-friendly project that demonstrates basic front-end development concepts.
+This is a simple login and registration system built using HTML, CSS, JavaScript and Tailwind CSS. The system allows users to register an account, store their data in local storage, and log in using their credentials. It is a beginner-friendly project that demonstrates basic front-end development concepts. <br>
 Live Demo: https://mohamedtharwat321.github.io/Login-and-Registration-System/
 
 
