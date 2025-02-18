@@ -29,7 +29,9 @@
       const msg = document.getElementById("welcome-msg");
 
       logoutBtn.addEventListener("click", () => {
-        window.location.href = "Login.html";
+        setTimeout(() => {
+          window.location.href = "Login.html";
+        }, 1000);
       });
     </script>
   </body>
